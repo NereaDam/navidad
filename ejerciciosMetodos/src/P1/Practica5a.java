@@ -1,6 +1,6 @@
 package P1;
 
-public class Practica5 {
+public class Practica5a {
     static void main() {
         Punto punto1 = new Punto(5.0,3.1);
         Punto punto2=new Punto(2.5,9.6);
